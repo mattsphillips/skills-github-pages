@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-#A blog about all of my favourite things
+# A blog about all of my favourite things
